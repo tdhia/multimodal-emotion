@@ -1,0 +1,13 @@
+numpy
+scipy
+librosa
+matplotlib
+pillow
+opencv-python
+torch
+torchaudio
+torchvision
+facenet-pytorch
+scikit-learn
+pandas
+gradio

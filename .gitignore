@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+env/
+multimodal/
+*.conda
+*.venv
+
+# Datasets / fichiers lourds
+data/
+data_preprocessed/
+
+# Modèles entraînés
+*.pth
+*.pt
+
+# Streamlit / Temp
+*.wav
+*.mp3
+*.tmp
